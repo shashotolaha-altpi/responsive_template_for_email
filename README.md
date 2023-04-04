@@ -1,2 +1,1 @@
 # responsive_template_for_email
-# responsive_template_for_email
